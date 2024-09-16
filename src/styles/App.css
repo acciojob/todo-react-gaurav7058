@@ -1,1 +1,15 @@
-
+body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    margin-right: 0px;
+}
+ul li{
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+li button{
+    margin-left: 12px;
+}
